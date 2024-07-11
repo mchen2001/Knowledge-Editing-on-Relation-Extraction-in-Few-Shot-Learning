@@ -1,0 +1,962 @@
+[
+    {
+        "relation": 0,
+        "tokens": "<SUBJ_START> Gansner Field <SUBJ_END> is a general aviation airport located near <OBJ_START> Quincy <OBJ_END>.",
+        "head": "gansner field",
+        "tail": "quincy"
+    },
+    {
+        "relation": 0,
+        "tokens": "<SUBJ_START> El Mirador Airport <SUBJ_END> (), is an airport just southeast of <OBJ_START> Puerto Varas <OBJ_END>, a city in the Los Lagos Region of Chile.",
+        "head": "el mirador airport",
+        "tail": "puerto varas"
+    },
+    {
+        "relation": 1,
+        "tokens": "Augustin Peak is an spire - shaped peak in the <SUBJ_START> Kichatna Mountains <SUBJ_END> of the <OBJ_START> Alaska Range <OBJ_END>, in Denali National Park and Preserve, southwest of Denali.",
+        "head": "kichatna mountains",
+        "tail": "alaska range"
+    },
+    {
+        "relation": 1,
+        "tokens": "Bakhallet Slope () is an ice slope between Terningskarvet Mountain and <SUBJ_START> Brugda Ridge <SUBJ_END> in the <OBJ_START> Gjelsvik Mountains <OBJ_END>, Queen Maud Land.",
+        "head": "brugda ridge",
+        "tail": "gjelsvik mountains"
+    },
+    {
+        "relation": 2,
+        "tokens": "<SUBJ_START> Charlemagne <SUBJ_END> was also able to win them to <OBJ_START> Christianity <OBJ_END>, the Saxons being the last German tribe that still held persistently to belief in the Germanic gods.",
+        "head": "charlemagne",
+        "tail": "christianity"
+    },
+    {
+        "relation": 2,
+        "tokens": "Maréchal was an admirer of Jean - Jacques Rousseau, Voltaire, <SUBJ_START> Claude Adrien Helvétius <SUBJ_END>, and Denis Diderot, and associated with deist and <OBJ_START> atheist <OBJ_END> authors.",
+        "head": "claude adrien helvétius",
+        "tail": "atheist"
+    },
+    {
+        "relation": 3,
+        "tokens": "At the <SUBJ_START> tournament itself <SUBJ_END> he led the side to the second round, losing narrowly to Wales but recorded a surprise victory over <OBJ_START> Ukraine <OBJ_END> in the group stages.",
+        "head": "tournament itself",
+        "tail": "ukraine"
+    },
+    {
+        "relation": 3,
+        "tokens": "On 17 February 2016, <OBJ_START> APOEL <OBJ_END> made it through to the semi - finals of the <SUBJ_START> Cypriot Cup <SUBJ_END> after a 3–1 win over Aris Limassol at Tsirion Stadium.",
+        "head": "cypriot cup",
+        "tail": "apoel"
+    },
+    {
+        "relation": 4,
+        "tokens": "Hayati Yazıcı ( born May 23, 1952 in <OBJ_START> Çayeli <OBJ_END>, <SUBJ_START> Rize Province <SUBJ_END>) is a Turkish lawyer and politician.",
+        "head": "rize province",
+        "tail": "çayeli"
+    },
+    {
+        "relation": 4,
+        "tokens": "Saburovsky Rail Bridges () are two adjacent steel bridges that span Moskva River in southern <OBJ_START> Moskvorechye - Saburovo District <OBJ_END> of <SUBJ_START> Moscow <SUBJ_END>, Russia.",
+        "head": "moscow",
+        "tail": "moskvorechye-saburovo district"
+    },
+    {
+        "relation": 5,
+        "tokens": "It includes the communes of <SUBJ_START> Lourdios - Ichère <SUBJ_END>, Oloron - Sainte - Marie and is currently represented by <OBJ_START> Jean Lassalle <OBJ_END>.",
+        "head": "lourdios-ichère",
+        "tail": "jean lassalle"
+    },
+    {
+        "relation": 5,
+        "tokens": "<OBJ_START> Natalia Gherman <OBJ_END>, former Deputy Prime Minister of <SUBJ_START> Moldova <SUBJ_END> and Minister of Foreign Affairs;\"Moldova nominates ex_Foreign Minister for UN chief candidacy. \"",
+        "head": "moldova",
+        "tail": "natalia gherman"
+    },
+    {
+        "relation": 6,
+        "tokens": "In 1527, <SUBJ_START> Gustav Vasa <SUBJ_END>, King of <OBJ_START> Sweden <OBJ_END>, had the church and convent torn down.",
+        "head": "gustav vasa",
+        "tail": "sweden"
+    },
+    {
+        "relation": 6,
+        "tokens": "( Swedish: Erik Magnusson; 1339 – 21 June 1359) was a rival king of <OBJ_START> Sweden <OBJ_END> of his father, <SUBJ_START> Magnus IV <SUBJ_END>, from 1356 to his death in 1359.",
+        "head": "magnus iv",
+        "tail": "sweden"
+    },
+    {
+        "relation": 7,
+        "tokens": "<SUBJ_START> Tum Hi Ho Bandhu Sakha Tumhi <SUBJ_END> is an Indian television series, which premiered on 11 May 2015 on <OBJ_START> Zee TV <OBJ_END>.",
+        "head": "tum hi ho bandhu sakha tumhi",
+        "tail": "zee tv"
+    },
+    {
+        "relation": 7,
+        "tokens": "In the fall of 2009, this song was featured in TV spots to promote the premiere of <SUBJ_START> The Vampire Diaries <SUBJ_END>, an American television series that airs on <OBJ_START> The CW <OBJ_END>.",
+        "head": "the vampire diaries",
+        "tail": "the cw"
+    },
+    {
+        "relation": 8,
+        "tokens": "The Glassworks - Gabler House, Glassworks - Core House, <SUBJ_START> John Minor Crawford House <SUBJ_END>, and Reppert - Gabler House are also listed on the <OBJ_START> National Register of Historic Places <OBJ_END>.",
+        "head": "john minor crawford house",
+        "tail": "national register of historic places"
+    },
+    {
+        "relation": 8,
+        "tokens": "Concord School House is a contributing property of the <SUBJ_START> Colonial Germantown Historic District <SUBJ_END>, which is listed on the National Register of Historic Places and a <OBJ_START> National Historic Landmark <OBJ_END>.",
+        "head": "colonial germantown historic district",
+        "tail": "national historic landmark"
+    },
+    {
+        "relation": 9,
+        "tokens": "\" <SUBJ_START> Fly Together <SUBJ_END> \" is a song by American hip hop recording artist <OBJ_START> Red Café <OBJ_END>, released as the promotional single off his upcoming debut studio album \" ShakeDown \".",
+        "head": "fly together",
+        "tail": "red café"
+    },
+    {
+        "relation": 9,
+        "tokens": "\" Better \" is a song by American rock band <OBJ_START> Guns N ' Roses <OBJ_END>, featured on their 2008 sixth studio album \" <SUBJ_START> Chinese Democracy <SUBJ_END> \".",
+        "head": "chinese democracy",
+        "tail": "guns n' roses"
+    },
+    {
+        "relation": 10,
+        "tokens": "\" Croatia captain <SUBJ_START> Darijo Srna <SUBJ_END> returns home following dad 's death hours after Croatia 's opening <OBJ_START> Euro 2016 <OBJ_END> victory \" \" Mail Online \", 13 June 2016.",
+        "head": "darijo srna",
+        "tail": "euro 2016"
+    },
+    {
+        "relation": 10,
+        "tokens": "Eishockei \" <SUBJ_START> Xaver Unsinn <SUBJ_END> verstorben kicker.de, published: 5 January 2011, accessed: 7 January 2011 He also competed at the <OBJ_START> 1952 <OBJ_END> and 1960 Winter Olympics.",
+        "head": "xaver unsinn",
+        "tail": "1952"
+    },
+    {
+        "relation": 11,
+        "tokens": "The law school is named after William H. Bowen, a former dean, and important figure in the administration of former <OBJ_START> Arkansas Governor <OBJ_END> and 43rd President of the United States, <SUBJ_START> Bill Clinton <SUBJ_END>.",
+        "head": "bill clinton",
+        "tail": "arkansas governor"
+    },
+    {
+        "relation": 11,
+        "tokens": "Appointed as National Security Adviser ( NSA), Aziz held a meeting with <OBJ_START> Minister of External Affairs <OBJ_END> <SUBJ_START> Salman Khurshid <SUBJ_END> to discuss the situation in LoC.",
+        "head": "salman khurshid",
+        "tail": "minister of external affairs"
+    },
+    {
+        "relation": 12,
+        "tokens": "He is accompanied on the LP by his <SUBJ_START> Soft Machine <SUBJ_END> colleagues Robert Wyatt, <OBJ_START> Mike Ratledge <OBJ_END> and Hugh Hopper.",
+        "head": "soft machine",
+        "tail": "mike ratledge"
+    },
+    {
+        "relation": 12,
+        "tokens": "The combination of FalconView and the Combat Flight Planning Software ( <OBJ_START> CFPS <OBJ_END>) which was being developed by the USAF 46th Test Squadron and TYBRIN Corp became the Portable Flight Planning Software ( <SUBJ_START> PFPS <SUBJ_END>).",
+        "head": "pfps",
+        "tail": "cfps"
+    },
+    {
+        "relation": 13,
+        "tokens": "Fisher also explored other projects, doing sessions in <OBJ_START> London <OBJ_END> and forming <SUBJ_START> Climie Fisher <SUBJ_END> with Simon Climie.",
+        "head": "climie fisher",
+        "tail": "london"
+    },
+    {
+        "relation": 13,
+        "tokens": "Album   – Generic <SUBJ_START> Flipper <SUBJ_END> is the debut album by the <OBJ_START> San Francisco <OBJ_END> band Flipper.",
+        "head": "flipper",
+        "tail": "san francisco"
+    },
+    {
+        "relation": 14,
+        "tokens": "<SUBJ_START> Solomon Islands <SUBJ_END> is the only independent country in <OBJ_START> Melanesia <OBJ_END> that is not an ICC member.",
+        "head": "solomon islands",
+        "tail": "melanesia"
+    },
+    {
+        "relation": 14,
+        "tokens": "The adjoining <OBJ_START> Tharsis Montes <OBJ_END> consists of Ascraeus, Pavonis, and <SUBJ_START> Arsia <SUBJ_END>.",
+        "head": "arsia",
+        "tail": "tharsis montes"
+    },
+    {
+        "relation": 15,
+        "tokens": "<SUBJ_START> Partisan Memorial Cemetery in Mostar <SUBJ_END>, which is a World War II memorial, is another important city symbol and it was designed by the famous architect <OBJ_START> Bogdan Bogdanović <OBJ_END>.",
+        "head": "partisan memorial cemetery in mostar",
+        "tail": "bogdan bogdanović"
+    },
+    {
+        "relation": 15,
+        "tokens": "The new <SUBJ_START> Igualada Cemetery <SUBJ_END> was designed by the architects Enric Miralles and <OBJ_START> Carme Pinós <OBJ_END> after winning an architectural competition in 1984.",
+        "head": "igualada cemetery",
+        "tail": "carme pinós"
+    },
+    {
+        "relation": 16,
+        "tokens": "Kebnekajse are a <OBJ_START> Swedish <OBJ_END> band that was most active during the 1970s after its members left the <SUBJ_START> Mecki Mark Men <SUBJ_END>.",
+        "head": "mecki mark men",
+        "tail": "swedish"
+    },
+    {
+        "relation": 16,
+        "tokens": "CBS broadcast the fourth season on Monday at 8:30 pm in the <OBJ_START> United States <OBJ_END> between How I Met Your Mother and <SUBJ_START> Two and a Half Men <SUBJ_END>.",
+        "head": "two and a half men",
+        "tail": "united states"
+    },
+    {
+        "relation": 17,
+        "tokens": "Serialized in <OBJ_START> Tokuma Shoten <OBJ_END> 's <SUBJ_START> Animage <SUBJ_END> magazine, the first chapter was published in February 1982 and the last chapter in March 1994.",
+        "head": "animage",
+        "tail": "tokuma shoten"
+    },
+    {
+        "relation": 17,
+        "tokens": "Quezada was one of the eight players competing in the <SUBJ_START> Pokkén Tournament <SUBJ_END> Early Access Competition Invitational by <OBJ_START> The Pokémon Company <OBJ_END> and Nintendo.",
+        "head": "pokkén tournament",
+        "tail": "the pokémon company"
+    },
+    {
+        "relation": 18,
+        "tokens": "Also in 1960, she had the small part of a young woman at a reception desk in <OBJ_START> Yasujirō Ozu <OBJ_END> 's \" <SUBJ_START> Late Autumn <SUBJ_END> \" （ 秋日和: \" Akibiyori \" ）.",
+        "head": "late autumn",
+        "tail": "yasujirō ozu"
+    },
+    {
+        "relation": 18,
+        "tokens": "Toy Story Toons: <SUBJ_START> Hawaiian Vacation <SUBJ_END> is a 2011 Pixar animated short directed by <OBJ_START> Gary Rydstrom <OBJ_END>.",
+        "head": "hawaiian vacation",
+        "tail": "gary rydstrom"
+    },
+    {
+        "relation": 19,
+        "tokens": "The scientific analysis that followed, strengthened the belief that the three skeletons in the grave are the remains of <OBJ_START> Birger jarl <OBJ_END>, his son duke <SUBJ_START> Eric Birgersson <SUBJ_END> and Birger 's wife Mechtild of Holstein.",
+        "head": "eric birgersson",
+        "tail": "birger jarl"
+    },
+    {
+        "relation": 19,
+        "tokens": "Leeke was the only son of <SUBJ_START> Henry Leeke <SUBJ_END>, also an athlete, and grandson of <OBJ_START> William Leeke <OBJ_END>, a Waterloo veteran.",
+        "head": "henry leeke",
+        "tail": "william leeke"
+    },
+    {
+        "relation": 20,
+        "tokens": "This was the most recent F1 game given the three season gap before <OBJ_START> Sumo Digital <OBJ_END> 's \" <SUBJ_START> F1 2009 <SUBJ_END> \" ( published by Codemasters) game came out on PSP and Nintendo Wii.",
+        "head": "f1 2009",
+        "tail": "sumo digital"
+    },
+    {
+        "relation": 20,
+        "tokens": "( \" <SUBJ_START> Metal Gear Solid: Portable Ops <SUBJ_END> \") <OBJ_START> Kojima Productions <OBJ_END>, 2006.",
+        "head": "metal gear solid: portable ops",
+        "tail": "kojima productions"
+    },
+    {
+        "relation": 21,
+        "tokens": "The Defense Staff of the Swedish Armed Forces commanded the staffs of its three services <OBJ_START> Army <OBJ_END>, Air Force and Navy, as well as the <SUBJ_START> Home Guard <SUBJ_END>.",
+        "head": "home guard",
+        "tail": "army"
+    },
+    {
+        "relation": 21,
+        "tokens": "Brigadier - General <SUBJ_START> Wilfred Ellershaw <SUBJ_END> ( 1871 - 1916) was a <OBJ_START> British Army <OBJ_END> officer who served as Aide - de - Camp to Lord Kitchener.",
+        "head": "wilfred ellershaw",
+        "tail": "british army"
+    },
+    {
+        "relation": 22,
+        "tokens": "The <SUBJ_START> Pârâul Sterp <SUBJ_END> is a tributary of the <OBJ_START> Pârâul Alb <OBJ_END> in Romania.",
+        "head": "pârâul sterp",
+        "tail": "pârâul alb"
+    },
+    {
+        "relation": 22,
+        "tokens": "The rivers in the southwestern part of the district drain into the <SUBJ_START> Uver <SUBJ_END>, a right tributary of the <OBJ_START> Msta <OBJ_END>.",
+        "head": "uver",
+        "tail": "msta"
+    },
+    {
+        "relation": 23,
+        "tokens": "He was nominated for the <OBJ_START> Academy Award for Best Original Score <OBJ_END> and Golden Globe Award for Best Original Score for the film \" <SUBJ_START> Moonlight <SUBJ_END> \" ( 2016).",
+        "head": "moonlight",
+        "tail": "academy award for best original score"
+    },
+    {
+        "relation": 23,
+        "tokens": "He received an Academy Award nomination for the film for <OBJ_START> Best Picture <OBJ_END> at the 88th Academy Awards along with Simon Kinberg, Scott, and <SUBJ_START> Mark Huffam <SUBJ_END>.",
+        "head": "mark huffam",
+        "tail": "best picture"
+    },
+    {
+        "relation": 24,
+        "tokens": "Whittredge was a highly regarded artist of his time, and was friends with several leading <OBJ_START> Hudson River School <OBJ_END> artists including Albert Bierstadt and <SUBJ_START> Sanford Robinson Gifford <SUBJ_END>.",
+        "head": "sanford robinson gifford",
+        "tail": "hudson river school"
+    },
+    {
+        "relation": 24,
+        "tokens": "His other works on paper were greatly influenced by a deep admiration for the work of the English <OBJ_START> Romantic artist <OBJ_END>, <SUBJ_START> Samuel Palmer <SUBJ_END>.",
+        "head": "samuel palmer",
+        "tail": "romantic artist"
+    },
+    {
+        "relation": 25,
+        "tokens": "Bruxner would never again hold ministerial office and the conservative political forces would not take government again until <OBJ_START> Robert Askin <OBJ_END> and Charles Cutler won the <SUBJ_START> 1965 election <SUBJ_END>.",
+        "head": "1965 election",
+        "tail": "robert askin"
+    },
+    {
+        "relation": 25,
+        "tokens": "Incumbent <OBJ_START> John Melcher <OBJ_END>, who was first elected to the Senate in 1976 and was re - elected in <SUBJ_START> 1982 <SUBJ_END>, ran for re - election.",
+        "head": "1982",
+        "tail": "john melcher"
+    },
+    {
+        "relation": 26,
+        "tokens": "He was coached by his father Joseph Wright Sr., who won a silver and bronze medals at the <SUBJ_START> 1904 <SUBJ_END> and <OBJ_START> 1908 Summer Olympics <OBJ_END> as a member of a Canadian eights crew.",
+        "head": "1904",
+        "tail": "1908 summer olympics"
+    },
+    {
+        "relation": 26,
+        "tokens": "Like its predecessor \" <SUBJ_START> Metro 2033 <SUBJ_END> \", \" <OBJ_START> Metro: Last Light <OBJ_END> \" is played from the perspective of Artyom, the player - character.",
+        "head": "metro 2033",
+        "tail": "metro: last light"
+    },
+    {
+        "relation": 27,
+        "tokens": "Some reports assert the Mexican vessels are based on the same design as the United States Coast Guard 's s. The Sentinel cutters are based on the <OBJ_START> Damen Group <OBJ_END> 's <SUBJ_START> 47 metre patrol vessel <SUBJ_END>.",
+        "head": "47 metre patrol vessel",
+        "tail": "damen group"
+    },
+    {
+        "relation": 27,
+        "tokens": "<OBJ_START> Toyota <OBJ_END> sales target for the US is about 20,000 <SUBJ_START> Prius <SUBJ_END> Prime models annually.",
+        "head": "prius",
+        "tail": "toyota"
+    },
+    {
+        "relation": 28,
+        "tokens": "The <SUBJ_START> Mark Morris Memorial Bridge <SUBJ_END> ( locally called the North Bridge) is a 2 lane <OBJ_START> truss bridge <OBJ_END> across the Mississippi River in the United States.",
+        "head": "mark morris memorial bridge",
+        "tail": "truss bridge"
+    },
+    {
+        "relation": 28,
+        "tokens": "Though the specialist colleges programme has ended, and the school converted to <OBJ_START> academy status <OBJ_END> in September 2011 and was renamed <SUBJ_START> Corelli College <SUBJ_END>, Corelli College: Inspection report, 2012 - Archived here.",
+        "head": "corelli college",
+        "tail": "academy status"
+    },
+    {
+        "relation": 29,
+        "tokens": "She also appeared in the film \" <SUBJ_START> Notes on a Scandal <SUBJ_END> \" based on the novel of the same name written by <OBJ_START> Zoë Heller <OBJ_END>.",
+        "head": "notes on a scandal",
+        "tail": "zoë heller"
+    },
+    {
+        "relation": 29,
+        "tokens": "Tre Vänner has also produced the 2010 film \" <SUBJ_START> Easy Money <SUBJ_END> \", which is a film adaptation <OBJ_START> Jens Lapidus <OBJ_END> ' novel \" with the same name \".",
+        "head": "easy money",
+        "tail": "jens lapidus"
+    },
+    {
+        "relation": 30,
+        "tokens": "<SUBJ_START> Frank Edward Clarke <SUBJ_END> ( 21 November 1886 – 12 July 1938) was a <OBJ_START> Conservative Party <OBJ_END> politician in England.",
+        "head": "frank edward clarke",
+        "tail": "conservative party"
+    },
+    {
+        "relation": 30,
+        "tokens": "Somewhat surprisingly, Hourwich did not run for Duma as a Social Democrat, but rather sought office as a member of the centrist <OBJ_START> Constitutional Democratic Party <OBJ_END> headed by <SUBJ_START> Pavel Miliukov <SUBJ_END>.",
+        "head": "pavel miliukov",
+        "tail": "constitutional democratic party"
+    },
+    {
+        "relation": 31,
+        "tokens": "The WVBF call sign had previously been used by 105.7 FM in <OBJ_START> Framingham <OBJ_END> from 1971 until 1993, while broadcasting top 40 and adult contemporary formats; that station is now <SUBJ_START> WROR - FM <SUBJ_END>.",
+        "head": "wror-fm",
+        "tail": "framingham"
+    },
+    {
+        "relation": 31,
+        "tokens": "<SUBJ_START> WAIO <SUBJ_END> 95.1 in <OBJ_START> Honeoye Falls, New York <OBJ_END> was formerly called \" 95.1 The Brew \" under the call sign WQBW until a branding change on September 11, 2014 that accompanied a DJ shuffle.",
+        "head": "waio",
+        "tail": "honeoye falls, new york"
+    },
+    {
+        "relation": 32,
+        "tokens": "The Mere that Moore donated for the prize is housed at the Allan Herbarium at <SUBJ_START> Landcare Research <SUBJ_END>, <OBJ_START> Lincoln <OBJ_END>.",
+        "head": "landcare research",
+        "tail": "lincoln"
+    },
+    {
+        "relation": 32,
+        "tokens": "<SUBJ_START> MAPS <SUBJ_END> was founded in 1986 by Rick Doblin, and is now based in <OBJ_START> Santa Cruz, California <OBJ_END>.",
+        "head": "maps",
+        "tail": "santa cruz, california"
+    },
+    {
+        "relation": 33,
+        "tokens": "Amongst his regular visitors were his younger brothers <SUBJ_START> Jyotirindranath Tagore <SUBJ_END> ( 1849–1925) and Rabindranath Tagore ( 1861–1941), the Nobel Prize – winning poet, and his sister <OBJ_START> Swarnakumari Devi <OBJ_END>.",
+        "head": "jyotirindranath tagore",
+        "tail": "swarnakumari devi"
+    },
+    {
+        "relation": 33,
+        "tokens": "On Berthold 's death in 1204 Merania went to his eldest son, <OBJ_START> Otto I <OBJ_END>, and Istria to a younger son, <SUBJ_START> Henry <SUBJ_END>.",
+        "head": "henry",
+        "tail": "otto i"
+    },
+    {
+        "relation": 34,
+        "tokens": "Originally a chorister at King 's College, Cambridge, he approached <SUBJ_START> Boris Ord <SUBJ_END> for <OBJ_START> organ <OBJ_END> lessons, but was referred to Hugh McLean.",
+        "head": "boris ord",
+        "tail": "organ"
+    },
+    {
+        "relation": 34,
+        "tokens": "Later on he practiced <OBJ_START> cello <OBJ_END> music with Alexander Melnikov and <SUBJ_START> Alexander Kniazev <SUBJ_END> and Valentin Feigin.",
+        "head": "alexander kniazev",
+        "tail": "cello"
+    },
+    {
+        "relation": 35,
+        "tokens": "<SUBJ_START> Geoje Station <SUBJ_END> () is a station of the Busan Metro Line 3 and Donghae Line in Geoje - dong, Yeonje District, Busan, <OBJ_START> South Korea <OBJ_END>.",
+        "head": "geoje station",
+        "tail": "south korea"
+    },
+    {
+        "relation": 35,
+        "tokens": "Cecil was drafted in 1984 by the Denver Nuggets, and later settled in <OBJ_START> Australia <OBJ_END> where he played in the <SUBJ_START> National Basketball League <SUBJ_END> for the North Melbourne Giants, Melbourne Tigers and Geelong Supercats.",
+        "head": "national basketball league",
+        "tail": "australia"
+    },
+    {
+        "relation": 36,
+        "tokens": "One Big Rush: The Genius of <SUBJ_START> Joe Satriani <SUBJ_END> is a music album by <OBJ_START> guitarist <OBJ_END> Joe Satriani, released in 2005.",
+        "head": "joe satriani",
+        "tail": "guitarist"
+    },
+    {
+        "relation": 36,
+        "tokens": "<SUBJ_START> Anne Azza Aly <SUBJ_END> ( born 29 March 1967) is an Australian <OBJ_START> politician <OBJ_END>, political scholar, academic and counter - terrorism expert.",
+        "head": "anne azza aly",
+        "tail": "politician"
+    },
+    {
+        "relation": 37,
+        "tokens": "On August 17/18, the British RAF launched an attack on <OBJ_START> Peenemünde <OBJ_END>, where <SUBJ_START> Wernher von Braun <SUBJ_END> and his staff had developed and tested the world 's first ballistic missiles.",
+        "head": "wernher von braun",
+        "tail": "peenemünde"
+    },
+    {
+        "relation": 37,
+        "tokens": "<SUBJ_START> Gorky <SUBJ_END> spent most of the period from 1921 to 1928 living abroad, mostly in <OBJ_START> Sorrento <OBJ_END>, Italy, where he wrote several successful books.",
+        "head": "gorky",
+        "tail": "sorrento"
+    },
+    {
+        "relation": 38,
+        "tokens": "He was sent to <OBJ_START> London <OBJ_END> and placed under the tuition of <SUBJ_START> Thomas Hudson <SUBJ_END>; later he went to Rome and studied under Marco Benefiale.",
+        "head": "thomas hudson",
+        "tail": "london"
+    },
+    {
+        "relation": 38,
+        "tokens": "<SUBJ_START> Gedeon Dagan <SUBJ_END> ( born December 24, 1932) is a professor Emeritus of Hydrology, School of Mechanical Engineering, Faculty of Engineering, <OBJ_START> Tel Aviv University <OBJ_END>, Israel.",
+        "head": "gedeon dagan",
+        "tail": "tel aviv university"
+    },
+    {
+        "relation": 39,
+        "tokens": "In 2011, <OBJ_START> Solidscape <OBJ_END> was acquired by <SUBJ_START> Stratasys, Inc ( SSYS) <SUBJ_END> the world market leader in 3D printing and Rapid Manufacturing systems \" Wohlers Report \".",
+        "head": "stratasys, inc (ssys)",
+        "tail": "solidscape"
+    },
+    {
+        "relation": 39,
+        "tokens": "In July 2012, it was announced that <OBJ_START> Volkswagen AG <OBJ_END> was taking over the Porsche AG automotive company completely, which bears the same name, but is only a subsidiary of <SUBJ_START> Porsche SE <SUBJ_END>.",
+        "head": "porsche se",
+        "tail": "volkswagen ag"
+    },
+    {
+        "relation": 40,
+        "tokens": "The <SUBJ_START> Pastry War <SUBJ_END> was a war fought between Mexico and <OBJ_START> France <OBJ_END> that ran from 1838 to 1839.",
+        "head": "pastry war",
+        "tail": "france"
+    },
+    {
+        "relation": 40,
+        "tokens": "In 251, he accompanied his uncle <OBJ_START> Sima Yi <OBJ_END> on a campaign against Wang Ling, who started <SUBJ_START> a rebellion <SUBJ_END>.",
+        "head": "a rebellion",
+        "tail": "sima yi"
+    },
+    {
+        "relation": 41,
+        "tokens": "<SUBJ_START> Tempe railway station <SUBJ_END> is serviced by the <OBJ_START> Sydney Trains <OBJ_END> Illawarra line and express services on the Airport & South Line pass without stopping.",
+        "head": "tempe railway station",
+        "tail": "sydney trains"
+    },
+    {
+        "relation": 41,
+        "tokens": "<SUBJ_START> Karasuma Oike Station <SUBJ_END> \n\n\n The station is the transferring station operated by <OBJ_START> Kyoto Municipal Transportation Bureau <OBJ_END> under Karasuma Oike Intersection on Karasuma - dori and Oike - dori.",
+        "head": "karasuma oike station",
+        "tail": "kyoto municipal transportation bureau"
+    },
+    {
+        "relation": 42,
+        "tokens": "In June 2011, she gained the leading role of <OBJ_START> Estella <OBJ_END> in Mike Newell 's film adaptation of \" <SUBJ_START> Great Expectations <SUBJ_END> \", opposite Jeremy Irvine and Helena Bonham Carter.",
+        "head": "great expectations",
+        "tail": "estella"
+    },
+    {
+        "relation": 42,
+        "tokens": "At the age of ten, Tucker was referred by OCCT to Walt Disney Productions, who cast her as young <OBJ_START> Nala <OBJ_END> for the musical production of \" <SUBJ_START> The Lion King <SUBJ_END> \".",
+        "head": "the lion king",
+        "tail": "nala"
+    },
+    {
+        "relation": 43,
+        "tokens": "Salt Lake City hosted games for the first time as well, with <SUBJ_START> Nielsen Fieldhouse <SUBJ_END> on the campus of the <OBJ_START> University of Utah <OBJ_END> hosted the Midwest & West first round games.",
+        "head": "nielsen fieldhouse",
+        "tail": "university of utah"
+    },
+    {
+        "relation": 43,
+        "tokens": "The <OBJ_START> Knights <OBJ_END> play their home games at <SUBJ_START> CFE Arena <SUBJ_END>, which is located on the main campus of UCF in Orlando, Florida.",
+        "head": "cfe arena",
+        "tail": "knights"
+    },
+    {
+        "relation": 44,
+        "tokens": "Kingspade consists of the <OBJ_START> rap <OBJ_END> duo Johnny Richter ( Tim McNutt) and D - Loc ( Dustin Gary Miller) of <SUBJ_START> Kottonmouth Kings <SUBJ_END>.",
+        "head": "kottonmouth kings",
+        "tail": "rap"
+    },
+    {
+        "relation": 44,
+        "tokens": "<SUBJ_START> Mortal Kombat <SUBJ_END> is an arcade <OBJ_START> fighting game <OBJ_END> developed and published by Midway in 1992 as the first title in the \" Mortal Kombat \" series.",
+        "head": "mortal kombat",
+        "tail": "fighting game"
+    },
+    {
+        "relation": 45,
+        "tokens": "<SUBJ_START> Xiaomi Mi MIX <SUBJ_END> 2 is an <OBJ_START> Android <OBJ_END> phablet manufactured by Xiaomi.",
+        "head": "xiaomi mi mix",
+        "tail": "android"
+    },
+    {
+        "relation": 45,
+        "tokens": "<SUBJ_START> Adobe Lightroom <SUBJ_END> ( officially Adobe Photoshop Lightroom) is a family of image organization and image manipulation software developed by Adobe Systems for <OBJ_START> Windows <OBJ_END> and macOS.",
+        "head": "adobe lightroom",
+        "tail": "windows"
+    },
+    {
+        "relation": 46,
+        "tokens": "<OBJ_START> TWE Global <OBJ_END> has revenue of over $ 2 billion and employs more than 4,000 people worldwide, encompassing 80 label brands including Penfolds, Wolf Blass, <SUBJ_START> Beringer <SUBJ_END>, Lindemans, Wynns and Rosemount.",
+        "head": "beringer",
+        "tail": "twe global"
+    },
+    {
+        "relation": 46,
+        "tokens": "Chernoff also reported and anchored for <OBJ_START> Time Warner <OBJ_END> 's now - defunct <SUBJ_START> CNNfn <SUBJ_END>.",
+        "head": "cnnfn",
+        "tail": "time warner"
+    },
+    {
+        "relation": 47,
+        "tokens": "\" <SUBJ_START> Cyber Spin <SUBJ_END> \" ( known in Japan as \" Shinseiki GPX: Cyber Formula \") for the <OBJ_START> Super Famicom <OBJ_END> was one of the more notable releases.",
+        "head": "cyber spin",
+        "tail": "super famicom"
+    },
+    {
+        "relation": 47,
+        "tokens": "<OBJ_START> ARM <OBJ_END> - based <SUBJ_START> Windows RT <SUBJ_END> devices must have secure boot permanently enabled.",
+        "head": "windows rt",
+        "tail": "arm"
+    },
+    {
+        "relation": 48,
+        "tokens": "The <OBJ_START> Ilek River <OBJ_END>, a tributary of the <SUBJ_START> Ural River <SUBJ_END>, flows through the region.",
+        "head": "ural river",
+        "tail": "ilek river"
+    },
+    {
+        "relation": 48,
+        "tokens": "<OBJ_START> Maple Run <OBJ_END> joins <SUBJ_START> Kitchen Creek <SUBJ_END> upstream of its mouth.",
+        "head": "kitchen creek",
+        "tail": "maple run"
+    },
+    {
+        "relation": 49,
+        "tokens": "Leon Garfield and <OBJ_START> Edward Blishen <OBJ_END> 's retelling of Greek myths, \" The God Beneath the Sea \", which Keeping illustrated in 1970, won the <SUBJ_START> Carnegie Medal <SUBJ_END> for that year.",
+        "head": "carnegie medal",
+        "tail": "edward blishen"
+    },
+    {
+        "relation": 49,
+        "tokens": "Polmans won the <SUBJ_START> 2015 Australian Open – Boys ' Doubles <SUBJ_END> title with fellow Australian <OBJ_START> Jake Delaney <OBJ_END>, defeating Hubert Hurkacz and Alex Molčan in the final, 0–6, 6–2, [ 10–8 ].",
+        "head": "2015 australian open – boys' doubles",
+        "tail": "jake delaney"
+    },
+    {
+        "relation": 50,
+        "tokens": "( The name \" <SUBJ_START> Yury <SUBJ_END> \" is a Russian - language equivalent of \" <OBJ_START> George <OBJ_END> \".)",
+        "head": "yury",
+        "tail": "george"
+    },
+    {
+        "relation": 50,
+        "tokens": "His forensic capability was demonstrated in the investigation of mass disasters such as the Spyros blast, the Singapore Cable Car <SUBJ_START> tragedy <SUBJ_END>, the Hotel New World <OBJ_START> disaster <OBJ_END> and the SilkAir Flight 185 tragedy.",
+        "head": "tragedy",
+        "tail": "disaster"
+    },
+    {
+        "relation": 51,
+        "tokens": "With that orchestra he notably performed the North American premiere of <OBJ_START> Constant Lambert <OBJ_END> 's \" <SUBJ_START> The Rio Grande <SUBJ_END> \" on 11 February 1930.",
+        "head": "the rio grande",
+        "tail": "constant lambert"
+    },
+    {
+        "relation": 51,
+        "tokens": "\" <SUBJ_START> Dear Heart <SUBJ_END> \" is a song written by <OBJ_START> Henry Mancini <OBJ_END>, Ray Evans, and Jay Livingston and performed by Andy Williams.",
+        "head": "dear heart",
+        "tail": "henry mancini"
+    },
+    {
+        "relation": 52,
+        "tokens": "After leaving Norwich later that year he played numerous games for <OBJ_START> Northern League <OBJ_END> sides Guisborough Town and <SUBJ_START> Crook Town <SUBJ_END>.",
+        "head": "crook town",
+        "tail": "northern league"
+    },
+    {
+        "relation": 52,
+        "tokens": "Taylor also played for the Navegantes del Magallanes and <SUBJ_START> Leones del Caracas <SUBJ_END> of the <OBJ_START> Venezuelan Winter League <OBJ_END>.",
+        "head": "leones del caracas",
+        "tail": "venezuelan winter league"
+    },
+    {
+        "relation": 53,
+        "tokens": "Magicians Holiday is the debut album by <SUBJ_START> The Gap Band <SUBJ_END> in 1974 on <OBJ_START> Shelter Records <OBJ_END>.",
+        "head": "the gap band",
+        "tail": "shelter records"
+    },
+    {
+        "relation": 53,
+        "tokens": "\" <SUBJ_START> Rolling in the Deep <SUBJ_END> \" became Adele 's label <OBJ_START> XL Recordings <OBJ_END> ' best - selling single, overtaking M.I.A.",
+        "head": "rolling in the deep",
+        "tail": "xl recordings"
+    },
+    {
+        "relation": 54,
+        "tokens": "Produced jointly by Prithviraj, Santhosh Sivan, Arya, and Shaji Nadesan under the banner of <OBJ_START> August Cinema <OBJ_END>, <SUBJ_START> Darvinte Parinamam <SUBJ_END> was released on 18 March 2016.",
+        "head": "darvinte parinamam",
+        "tail": "august cinema"
+    },
+    {
+        "relation": 54,
+        "tokens": "He then took the lead role of Ray Betson in the <OBJ_START> Channel Five <OBJ_END> crime drama \" <SUBJ_START> The Great Dome Robbery <SUBJ_END> \".",
+        "head": "the great dome robbery",
+        "tail": "channel five"
+    },
+    {
+        "relation": 55,
+        "tokens": "\" <SUBJ_START> The Honorary Consul <SUBJ_END> \" was adapted from Graham Greene 's novel by <OBJ_START> Christopher Hampton <OBJ_END>.",
+        "head": "the honorary consul",
+        "tail": "christopher hampton"
+    },
+    {
+        "relation": 55,
+        "tokens": "\" <SUBJ_START> Halla Bol <SUBJ_END> based on Safdar Hashmi: <OBJ_START> Rajkumar Santoshi <OBJ_END>. \"",
+        "head": "halla bol",
+        "tail": "rajkumar santoshi"
+    },
+    {
+        "relation": 56,
+        "tokens": "A <SUBJ_START> 1979 <SUBJ_END> 3rd - round draft pick was sent to the Dolphins as <OBJ_START> NFL <OBJ_END> - ordered compensation. Martz, Ron.",
+        "head": "1979",
+        "tail": "nfl"
+    },
+    {
+        "relation": 56,
+        "tokens": "The biggest success of the club 's history was certainly achieved in the quarterfinals of the <OBJ_START> Thai FA Cup <OBJ_END> in <SUBJ_START> 2009 <SUBJ_END> before the Roosters was 0 - 3 eliminated by TTM Samut Sakhon.",
+        "head": "2009",
+        "tail": "thai fa cup"
+    },
+    {
+        "relation": 57,
+        "tokens": "The longnose pygmy shark ( \" Heteroscymnoides marleyi \") is a rare species of dogfish shark in the <OBJ_START> family <OBJ_END> <SUBJ_START> Dalatiidae <SUBJ_END> and the only member its genus.",
+        "head": "dalatiidae",
+        "tail": "family"
+    },
+    {
+        "relation": 57,
+        "tokens": "Tricolia capensis, common name the pheasant shell, is a species of sea snail, a marine gastropod mollusk in the <OBJ_START> family <OBJ_END> <SUBJ_START> Phasianellidae <SUBJ_END>.",
+        "head": "phasianellidae",
+        "tail": "family"
+    },
+    {
+        "relation": 58,
+        "tokens": "Juni with the Berlin Victory Column and <SUBJ_START> Brandenburg Gate <SUBJ_END> in a direct line to Pariser Platz, Unter den Linden and the site of the City Palace in Berlin - <OBJ_START> Mitte <OBJ_END>.",
+        "head": "brandenburg gate",
+        "tail": "mitte"
+    },
+    {
+        "relation": 58,
+        "tokens": "They built all the main infrastructure in <OBJ_START> Sørvágur <OBJ_END> including <SUBJ_START> Vágar Airport <SUBJ_END>, the harbour in Sørvág, Niðaraveg ( the main road to the harbour) and several bridges.",
+        "head": "vágar airport",
+        "tail": "sørvágur"
+    },
+    {
+        "relation": 59,
+        "tokens": "\" The Ark \", an 84   ft lighter moored in the flooded Granton quarry, was fitted out as a floating laboratory by the father of modern <OBJ_START> oceanography <OBJ_END>, <SUBJ_START> Sir John Murray <SUBJ_END>.",
+        "head": "sir john murray",
+        "tail": "oceanography"
+    },
+    {
+        "relation": 59,
+        "tokens": "Ptolemy 's \" <OBJ_START> Geography <OBJ_END> \" was translated into Arabic by a team of scholars including <SUBJ_START> al - Khwārizmī <SUBJ_END> in the 9th century during the reign of al - Maʿmūn.",
+        "head": "al-khwārizmī",
+        "tail": "geography"
+    },
+    {
+        "relation": 60,
+        "tokens": "The <SUBJ_START> Arabic Wikipedia <SUBJ_END> () is the <OBJ_START> Arabic language <OBJ_END> version of Wikipedia.",
+        "head": "arabic wikipedia",
+        "tail": "arabic language"
+    },
+    {
+        "relation": 60,
+        "tokens": "The publisher found success in 1993 with Tarō Gomi 's \" <SUBJ_START> Everyone Poops <SUBJ_END> \", a <OBJ_START> Japanese language <OBJ_END> import that sold over one million copies and is now their best - known title.",
+        "head": "everyone poops",
+        "tail": "japanese language"
+    },
+    {
+        "relation": 61,
+        "tokens": "John P. Connarn ( July 8, 1917 – March 26, 2002) was a <OBJ_START> Vermont <OBJ_END> attorney and political figure who served as the state <SUBJ_START> Attorney General <SUBJ_END>.",
+        "head": "attorney general",
+        "tail": "vermont"
+    },
+    {
+        "relation": 61,
+        "tokens": "The <SUBJ_START> Sahrawi National Council <SUBJ_END> ( \" Consejo Nacional Saharaui \") is the legislature of the <OBJ_START> Sahrawi Arab Democratic Republic <OBJ_END> government in exile.",
+        "head": "sahrawi national council",
+        "tail": "sahrawi arab democratic republic"
+    },
+    {
+        "relation": 62,
+        "tokens": "Four years later, in 1973, he made his first appearance at the Covent Garden conducting <SUBJ_START> Gluck <SUBJ_END> 's \" <OBJ_START> Iphigénie en Tauride <OBJ_END> \".",
+        "head": "gluck",
+        "tail": "iphigénie en tauride"
+    },
+    {
+        "relation": 62,
+        "tokens": "In his novel \" <OBJ_START> East of Eden <OBJ_END> \" ( 1952) <SUBJ_START> John Steinbeck <SUBJ_END> mentioned a Morris Chair as a new piece of furniture bought by Lee for Adam Trasks home at Salinas.",
+        "head": "john steinbeck",
+        "tail": "east of eden"
+    },
+    {
+        "relation": 63,
+        "tokens": "Ruoqiang Loulan Airport is a civil airport scheduled to be constructed to serve <SUBJ_START> Ruoqiang County <SUBJ_END> in <OBJ_START> Bayingolin Mongol Autonomous Prefecture <OBJ_END>, Xinjiang Uyghur Autonomous Region in northwestern China.",
+        "head": "ruoqiang county",
+        "tail": "bayingolin mongol autonomous prefecture"
+    },
+    {
+        "relation": 63,
+        "tokens": "Wei Brian was born in 1963 and lived in <SUBJ_START> Wuhan <SUBJ_END>, the capital city of the <OBJ_START> Hubei Province <OBJ_END> found in Central China.",
+        "head": "wuhan",
+        "tail": "hubei province"
+    },
+    {
+        "relation": 64,
+        "tokens": "From Covington, the route takes the <SUBJ_START> Clay Wade Bailey Bridge <SUBJ_END> back over the <OBJ_START> Ohio River <OBJ_END> into Cincinnati.",
+        "head": "clay wade bailey bridge",
+        "tail": "ohio river"
+    },
+    {
+        "relation": 64,
+        "tokens": "The Wandsworth gasworks was built in 1834 on the Surrey bank of the <OBJ_START> River Thames <OBJ_END> near <SUBJ_START> Wandsworth Bridge <SUBJ_END>.",
+        "head": "wandsworth bridge",
+        "tail": "river thames"
+    },
+    {
+        "relation": 65,
+        "tokens": "<SUBJ_START> Pehla Pehla Pyaar <SUBJ_END> ( <OBJ_START> Urdu <OBJ_END>: پہلا پہلا پیار) is a Pakistani Urdu film directed by Mubasher Lucman which was released across theaters in Pakistan in January 2006.",
+        "head": "pehla pehla pyaar",
+        "tail": "urdu"
+    },
+    {
+        "relation": 65,
+        "tokens": "<SUBJ_START> Hawa Hawaee <SUBJ_END> is a 2007 <OBJ_START> Marathi <OBJ_END> comedy film directed by Vijay Kenkre.",
+        "head": "hawa hawaee",
+        "tail": "marathi"
+    },
+    {
+        "relation": 66,
+        "tokens": "Retrieved 2 January 2016 In September 1993 he faced <SUBJ_START> Del Bryan <SUBJ_END> for the vacant British <OBJ_START> welterweight <OBJ_END> title at the York Hall, Bethnal Green, Bryan taking the title on points.",
+        "head": "del bryan",
+        "tail": "welterweight"
+    },
+    {
+        "relation": 66,
+        "tokens": "On 14 March 2008, Bami challenged <SUBJ_START> David Barnes <SUBJ_END> for the vacant British <OBJ_START> light welterweight <OBJ_END> title.",
+        "head": "david barnes",
+        "tail": "light welterweight"
+    },
+    {
+        "relation": 67,
+        "tokens": "Wester Ross is well known for its mountain scenery, especially the <OBJ_START> Torridon Hills <OBJ_END> which includes such peaks as Beinn Eighe and <SUBJ_START> Liathach <SUBJ_END>.",
+        "head": "liathach",
+        "tail": "torridon hills"
+    },
+    {
+        "relation": 67,
+        "tokens": "At the <OBJ_START> 1984 Summer Olympics <OBJ_END> he was helmsman in the <SUBJ_START> Soling Class <SUBJ_END> with Keith Thomas and Elvet Meyers.",
+        "head": "soling class",
+        "tail": "1984 summer olympics"
+    },
+    {
+        "relation": 68,
+        "tokens": "<SUBJ_START> Klaus Lange <SUBJ_END> ( born September 14, 1939) is a former West German <OBJ_START> handball <OBJ_END> player who competed in the 1972 Summer Olympics.",
+        "head": "klaus lange",
+        "tail": "handball"
+    },
+    {
+        "relation": 68,
+        "tokens": "Aaron Groom ( born 23 June 1987 in Suva, Fiji) is a Fijian professional <OBJ_START> rugby league <OBJ_END> footballer who currently plays for the <SUBJ_START> Asquith Magpies <SUBJ_END> in the Ron Massey Cup.",
+        "head": "asquith magpies",
+        "tail": "rugby league"
+    },
+    {
+        "relation": 69,
+        "tokens": "<SUBJ_START> NGC 324 <SUBJ_END> is a lenticular galaxy located in the constellation <OBJ_START> Phoenix <OBJ_END>.",
+        "head": "ngc 324",
+        "tail": "phoenix"
+    },
+    {
+        "relation": 69,
+        "tokens": "<SUBJ_START> NGC 415 <SUBJ_END> is a spiral galaxy of type SB(rb)b located in the constellation <OBJ_START> Sculptor <OBJ_END>.",
+        "head": "ngc 415",
+        "tail": "sculptor"
+    },
+    {
+        "relation": 70,
+        "tokens": "<SUBJ_START> Ervin Taha <SUBJ_END> ( born 14 March 1999) is a French football player who plays as <OBJ_START> forward <OBJ_END> for FC Girondins de Bordeaux in Ligue 1.",
+        "head": "ervin taha",
+        "tail": "forward"
+    },
+    {
+        "relation": 70,
+        "tokens": "<SUBJ_START> Randy Miguel Rosario Luperon <SUBJ_END> ( born May 18, 1994) is a Dominican professional baseball <OBJ_START> pitcher <OBJ_END> for the Chicago Cubs of Major League Baseball ( MLB).",
+        "head": "randy miguel rosario luperon",
+        "tail": "pitcher"
+    },
+    {
+        "relation": 71,
+        "tokens": "Still further north are the Upper and Lower Lakes, with Upper Dumbell Lake southwest of <SUBJ_START> Alert <SUBJ_END>, Canada 's northernmost settlement on the coast of <OBJ_START> Lincoln Sea <OBJ_END>, Arctic Ocean.",
+        "head": "alert",
+        "tail": "lincoln sea"
+    },
+    {
+        "relation": 71,
+        "tokens": "Habsburg then occupied whole Lesser Poland, stretching along the upper <OBJ_START> Vistula <OBJ_END> river to the outskirts of Praga and <SUBJ_START> Warsaw <SUBJ_END>, the tributaries of Bug and Pilica forming the northern border with New East Prussia.",
+        "head": "warsaw",
+        "tail": "vistula"
+    },
+    {
+        "relation": 72,
+        "tokens": "<SUBJ_START> Raphaël Pichon <SUBJ_END> ( born in 1984 in Paris) is a French <OBJ_START> countertenor <OBJ_END>, choral conductor and conductor.",
+        "head": "raphaël pichon",
+        "tail": "countertenor"
+    },
+    {
+        "relation": 72,
+        "tokens": "<SUBJ_START> Isabel Leonard <SUBJ_END> ( born February 18, 1982) is an American <OBJ_START> mezzo - soprano <OBJ_END>.",
+        "head": "isabel leonard",
+        "tail": "mezzo-soprano"
+    },
+    {
+        "relation": 73,
+        "tokens": "West was a track sprint coach for Australia at the 1998, <OBJ_START> 2010 <OBJ_END> and <SUBJ_START> 2014 Commonwealth Games <SUBJ_END>.",
+        "head": "2014 commonwealth games",
+        "tail": "2010"
+    },
+    {
+        "relation": 73,
+        "tokens": "From the <OBJ_START> Stone <OBJ_END>, <SUBJ_START> Bronze <SUBJ_END> and Iron Ages comes no direct information about archaeological finds anywhere within Relsberg ’s limits.",
+        "head": "bronze",
+        "tail": "stone"
+    },
+    {
+        "relation": 74,
+        "tokens": "<SUBJ_START> Caroline Thomson <SUBJ_END> is married to the Labour peer <OBJ_START> Roger Liddle <OBJ_END>, an advisor to Tony Blair while Blair was Prime Minister.",
+        "head": "caroline thomson",
+        "tail": "roger liddle"
+    },
+    {
+        "relation": 74,
+        "tokens": "Qutlugh Nigar Khanum was born a princess of Moghulistan and was the second daughter of <SUBJ_START> Yunus Khan <SUBJ_END>, the Great Khan of Moghulistan, and his chief consort <OBJ_START> Aisan Daulat Begum <OBJ_END>.",
+        "head": "yunus khan",
+        "tail": "aisan daulat begum"
+    },
+    {
+        "relation": 75,
+        "tokens": "The official opening of the museum took place on 4 April 1987 by Mrs Ly Bennett, wife of the museum ’s first patron, the late <OBJ_START> Air Vice - Marshal <OBJ_END> <SUBJ_START> Don Bennett <SUBJ_END>.",
+        "head": "don bennett",
+        "tail": "air vice-marshal"
+    },
+    {
+        "relation": 75,
+        "tokens": "<OBJ_START> Major - General <OBJ_END> <SUBJ_START> Philip James Shears <SUBJ_END> CB ( 1887 – 1972) was a senior officer in the British Army.",
+        "head": "philip james shears",
+        "tail": "major-general"
+    },
+    {
+        "relation": 76,
+        "tokens": "Following her husband 's death in 1833, <OBJ_START> Barbara Wilberforce <OBJ_END> spent her time with her sons, Robert and <SUBJ_START> Samuel <SUBJ_END>, or with her sister Ann Neale in Taplow in Buckinghamshire.",
+        "head": "samuel",
+        "tail": "barbara wilberforce"
+    },
+    {
+        "relation": 76,
+        "tokens": "Harry Townes, Jack Klugman, and <OBJ_START> June Walker <OBJ_END>, the mother of <SUBJ_START> John Kerr <SUBJ_END>, also appear in this episode.",
+        "head": "john kerr",
+        "tail": "june walker"
+    },
+    {
+        "relation": 77,
+        "tokens": "The song was co - written by famed songwriter Desmond Child, <OBJ_START> Ratt <OBJ_END> guitarist <SUBJ_START> Warren DeMartini <SUBJ_END> and lead singer Stephen Pearcy.",
+        "head": "warren demartini",
+        "tail": "ratt"
+    },
+    {
+        "relation": 77,
+        "tokens": "He received the John J. Carty Award of the <OBJ_START> National Academy of Sciences <OBJ_END> in 1978 ( for pure mathematics) and the <SUBJ_START> George David Birkhoff <SUBJ_END> Prize in Applied Mathematics in 2003.",
+        "head": "george david birkhoff",
+        "tail": "national academy of sciences"
+    },
+    {
+        "relation": 78,
+        "tokens": "He served under the Syrian Greek Kings <SUBJ_START> Antiochus III the Great <SUBJ_END>, <OBJ_START> Seleucus IV Philopator <OBJ_END>, Antiochus IV Epiphanes and Antiochus V Eupator.",
+        "head": "antiochus iii the great",
+        "tail": "seleucus iv philopator"
+    },
+    {
+        "relation": 78,
+        "tokens": "Edmonson is married to comedian <SUBJ_START> Jennifer Saunders <SUBJ_END> and they have three daughters, musician Ella, actress <OBJ_START> Beattie <OBJ_END> and Freya.",
+        "head": "jennifer saunders",
+        "tail": "beattie"
+    },
+    {
+        "relation": 79,
+        "tokens": "This piece appears as the main menu theme in the <OBJ_START> World War II <OBJ_END> - inspired vehicular combat MMO \" <SUBJ_START> War Thunder <SUBJ_END> \".",
+        "head": "war thunder",
+        "tail": "world war ii"
+    },
+    {
+        "relation": 79,
+        "tokens": "FIFA appointed Michael J. Garcia, a US attorney, to investigate and produce a report ( the <SUBJ_START> Garcia Report <SUBJ_END>) on the <OBJ_START> corruption <OBJ_END> allegations.",
+        "head": "garcia report",
+        "tail": "corruption"
+    }
+]
