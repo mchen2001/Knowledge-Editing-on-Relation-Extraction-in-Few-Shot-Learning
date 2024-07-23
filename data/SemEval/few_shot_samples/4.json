@@ -1,0 +1,40 @@
+{"sentence":"[CLS] The <SUBJ_START> evacuation <SUBJ_END> after the Chernobyl <OBJ_START> accident <OBJ_END> was poorly planned and chaotic. [SEP]","relation":"Cause-Effect"}
+{"sentence":"[CLS] Many adults retain <SUBJ_START> scars <SUBJ_END> from <OBJ_START> acne breakouts <OBJ_END> during their teen years and feel marked for life. [SEP]","relation":"Cause-Effect"}
+{"sentence":"[CLS] The NNT and NNH are useful indices to describe the trade-off between the benefit and the <SUBJ_START> harm <SUBJ_END> produced by a new <OBJ_START> treatment <OBJ_END>. [SEP]","relation":"Cause-Effect"}
+{"sentence":"[CLS] Most of the <SUBJ_START> streaks <SUBJ_END> are caused by <OBJ_START> meteoroids <OBJ_END> about the size of a grain of sand, although meteoroids are porous and much less dense than sand. [SEP]","relation":"Cause-Effect"}
+{"sentence":"[CLS] Gunung Papandayan, has woken up from it's sleep and is now threathening thousands of villagers living around and on the <SUBJ_START> slopes <SUBJ_END> of the <OBJ_START> vulcano <OBJ_END>. [SEP]","relation":"Component-Whole"}
+{"sentence":"[CLS] The software made it easier for the team to explore rational ways of expanding the <SUBJ_START> lobby <SUBJ_END> using the geometry of the <OBJ_START> building <OBJ_END>. [SEP]","relation":"Component-Whole"}
+{"sentence":"[CLS] Each omnidirectional mic <SUBJ_START> capsule <SUBJ_END> is fitted with a metal alligator <OBJ_START> clip <OBJ_END> which can be attached on either side of your head. [SEP]","relation":"Component-Whole"}
+{"sentence":"[CLS] Air circulates through the <SUBJ_START> arm <SUBJ_END> of the <OBJ_START> machine <OBJ_END>, creating a gentle vacuum that can attract a page and guide it from the right side of the book to the left. [SEP]","relation":"Component-Whole"}
+{"sentence":"[CLS] The <SUBJ_START> absorbent <SUBJ_END> was contained in a 3 litre <OBJ_START> reactor <OBJ_END>. [SEP]","relation":"Content-Container"}
+{"sentence":"[CLS] Stirring the hot <SUBJ_START> popcorn <SUBJ_END> around in a <OBJ_START> kettle <OBJ_END> drizzled with sugar, salt and oil evenly coats the popcorn. [SEP]","relation":"Content-Container"}
+{"sentence":"[CLS] The <SUBJ_START> building <SUBJ_END> contained a significant amount of <OBJ_START> furniture <OBJ_END> and equipment. [SEP]","relation":"Content-Container"}
+{"sentence":"[CLS] To the right of that is a <SUBJ_START> cup <SUBJ_END> with <OBJ_START> soil <OBJ_END> inside. [SEP]","relation":"Content-Container"}
+{"sentence":"[CLS] Archaeologists have located the tomb and have inserted <SUBJ_START> probes <SUBJ_END> deep into the <OBJ_START> tomb <OBJ_END>. [SEP]","relation":"Entity-Destination"}
+{"sentence":"[CLS] Flag <SUBJ_START> holders <SUBJ_END> have been pushed into the <OBJ_START> floor <OBJ_END> to remove the bump on top of the flag. [SEP]","relation":"Entity-Destination"}
+{"sentence":"[CLS] So far this year, the city has dumped <SUBJ_START> sewage <SUBJ_END> into the <OBJ_START> river <OBJ_END> more than 500 times. [SEP]","relation":"Entity-Destination"}
+{"sentence":"[CLS] The <SUBJ_START> passenger <SUBJ_END> was placed into a small <OBJ_START> room <OBJ_END> before being transported to Harborview Medical Center for treatment. [SEP]","relation":"Entity-Destination"}
+{"sentence":"[CLS] It's a straightforward <SUBJ_START> beef <SUBJ_END> <OBJ_START> stew <OBJ_END> to which all sorts of root veg can be added. [SEP]","relation":"Entity-Origin"}
+{"sentence":"[CLS] The archaeological site yields <SUBJ_START> relics <SUBJ_END> from long-forgotten <OBJ_START> culture <OBJ_END>. [SEP]","relation":"Entity-Origin"}
+{"sentence":"[CLS] This <SUBJ_START> material <SUBJ_END> was produced from a microfilm <OBJ_START> copy <OBJ_END> of the original document. [SEP]","relation":"Entity-Origin"}
+{"sentence":"[CLS] Your garden does well with either of these soils since these <SUBJ_START> soils <SUBJ_END> come from a reputable <OBJ_START> dealer <OBJ_END>. [SEP]","relation":"Entity-Origin"}
+{"sentence":"[CLS] They infiltrated here and there, provoking the Russian <SUBJ_START> military <SUBJ_END> to liberate region after region with <OBJ_START> bombs <OBJ_END> and artillery. [SEP]","relation":"Instrument-Agency"}
+{"sentence":"[CLS] A <SUBJ_START> woman <SUBJ_END> applies the <OBJ_START> patch <OBJ_END> to the skin of her abdomen or buttock for three and a half weeks. [SEP]","relation":"Instrument-Agency"}
+{"sentence":"[CLS] The <SUBJ_START> author <SUBJ_END> carefully chose the <OBJ_START> composition <OBJ_END> so that the desired molecular machines and the relationship between them are clearly revealed. [SEP]","relation":"Instrument-Agency"}
+{"sentence":"[CLS] The dominant <SUBJ_START> method <SUBJ_END> that the Roman <OBJ_START> mathematicians <OBJ_END> used to identify a year for dating purposes was to name it after the two consuls who took office in it. [SEP]","relation":"Instrument-Agency"}
+{"sentence":"[CLS] A woman diagnosed with breast cancer today joins a huge <SUBJ_START> sisterhood <SUBJ_END> of cancer <OBJ_START> survivors <OBJ_END> ready to help her along the way to recovery. [SEP]","relation":"Member-Collection"}
+{"sentence":"[CLS] This was the thought until recently when a small <SUBJ_START> stand <SUBJ_END> of ginkgo <OBJ_START> trees <OBJ_END> were found growing in a remote valley in China. [SEP]","relation":"Member-Collection"}
+{"sentence":"[CLS] The regiment is composed of ten battalions of 400 heavy infantry and 50 light infantry each plus an extra <SUBJ_START> unit <SUBJ_END> of 1000 <OBJ_START> pikemen <OBJ_END> and 500 extra light infantry. [SEP]","relation":"Member-Collection"}
+{"sentence":"[CLS] A small <SUBJ_START> charm <SUBJ_END> of seven <OBJ_START> goldfinches <OBJ_END> bounced in front of the bus. [SEP]","relation":"Member-Collection"}
+{"sentence":"[CLS] The goal of the experimental <SUBJ_START> course <SUBJ_END> was to introduce students to <OBJ_START> computer programming <OBJ_END>. [SEP]","relation":"Message-Topic"}
+{"sentence":"[CLS] Meanwhile, the <SUBJ_START> speech <SUBJ_END> pointed out that the scientific <OBJ_START> innovation <OBJ_END> is the only way to develop. [SEP]","relation":"Message-Topic"}
+{"sentence":"[CLS] It creates <SUBJ_START> projects <SUBJ_END> having to do with <OBJ_START> social justice <OBJ_END> and environmental justice. [SEP]","relation":"Message-Topic"}
+{"sentence":"[CLS] The old geological <SUBJ_START> theory <SUBJ_END> explained <OBJ_START> mountains <OBJ_END> as wrinkles made by the Earth shrinking as it cools down. [SEP]","relation":"Message-Topic"}
+{"sentence":"[CLS] People have inherited a <SUBJ_START> tendency <SUBJ_END> to <OBJ_START> obesity <OBJ_END>. [SEP]","relation":"Other"}
+{"sentence":"[CLS] The <SUBJ_START> mistress <SUBJ_END> fries the <OBJ_START> rashers <OBJ_END> in a small china fryingpan over the lamp, passing to each person the hot slices as they are done. [SEP]","relation":"Other"}
+{"sentence":"[CLS] The infamous <SUBJ_START> teacher <SUBJ_END> has been dragged into another child abuse <OBJ_START> case <OBJ_END>. [SEP]","relation":"Other"}
+{"sentence":"[CLS] I hear it, too, in the lovely expansiveness of his work as a <SUBJ_START> chamber <SUBJ_END> <OBJ_START> musician <OBJ_END>. [SEP]","relation":"Other"}
+{"sentence":"[CLS] Thrombopoietin is a glycoprotein hormone that regulates the production of <SUBJ_START> platelets <SUBJ_END> by the bone <OBJ_START> marrow <OBJ_END>. [SEP]","relation":"Product-Producer"}
+{"sentence":"[CLS] <SUBJ_START> Stings <SUBJ_END> or bites are caused by midges, horseflies, bees, <OBJ_START> wasps <OBJ_END>, ants, some spiders, fleas, lice, etc. [SEP]","relation":"Product-Producer"}
+{"sentence":"[CLS] Let It Be, the third full-length <SUBJ_START> record <SUBJ_END> by the now long-defunct Minnesota <OBJ_START> quartet <OBJ_END>, was released at the tail end of 1984. [SEP]","relation":"Product-Producer"}
+{"sentence":"[CLS] We did not endorse a candidate unlike the ten <SUBJ_START> scientists <SUBJ_END> who wrote a <OBJ_START> letter <OBJ_END> in support of John Kerry. [SEP]","relation":"Product-Producer"}

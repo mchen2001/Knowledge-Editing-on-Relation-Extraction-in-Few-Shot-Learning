@@ -1,0 +1,12 @@
+{
+    "Cause-Effect": 0,
+    "Component-Whole": 1,
+    "Content-Container": 2,
+    "Entity-Destination": 3,
+    "Entity-Origin": 4,
+    "Instrument-Agency": 5,
+    "Member-Collection": 6,
+    "Message-Topic": 7,
+    "Other": 8,
+    "Product-Producer": 9
+}

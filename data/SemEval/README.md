@@ -1,0 +1,1 @@
+Process [SemEval 2010 Task 8](https://aclanthology.org/S10-1006) dataset.
