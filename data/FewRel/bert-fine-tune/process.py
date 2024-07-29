@@ -63,7 +63,7 @@ def add_special_tokens(example):
     return example
 
 def main():
-    for n in [2,4,8,16,32]:
+    for n in [2,4,8,16,32,64,128,256,512]:
         for i in range(10):
             process(f'../few-shot-sample/{n}/{i}.json', f'{n}/{i}.json')
     

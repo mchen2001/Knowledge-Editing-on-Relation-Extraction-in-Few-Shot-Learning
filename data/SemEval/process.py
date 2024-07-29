@@ -27,7 +27,7 @@ def normalize_sentence(sentence):
 train_data = load_and_simplify_semeval2010_task8('TRAIN_FILE.TXT')
 test_data = load_and_simplify_semeval2010_task8('TEST_FILE_FULL.TXT')
 
-num_shots_list = [2, 4, 8, 16, 32, 64, 128, 256]
+num_shots_list = [2, 4, 8, 16, 32, 64, 128, 256, 512]
 seed = 0
 
 def sample_few_shot_data(train_data, num_shots, seed):
